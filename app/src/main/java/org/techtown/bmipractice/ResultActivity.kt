@@ -36,7 +36,7 @@ class ResultActivity : AppCompatActivity() {
         resultStringTextView.text = resultText
 
 
-
+        tt
 
 
 
